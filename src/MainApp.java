@@ -7,6 +7,8 @@ public class MainApp {
 		System.out.println("Sup world!");
 	
 		System.out.println("This is a bad omen.");
+		
+		System.out.println("bye felicia");
 	}
 
 }
