@@ -5,6 +5,8 @@ public class MainApp {
 		System.out.println("This is a new addition and a new edition!");
 		System.out.println("Hello World!");
 		System.out.println("Sup world!");
+	
+		System.out.println("This is a bad omen.");
 	}
 
 }
